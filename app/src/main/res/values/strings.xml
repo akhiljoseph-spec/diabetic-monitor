@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diabetic Monitor</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_charts">Charts</string>
+    <string name="title_medication">Medication</string>
+    <string name="title_settings">Settings</string>
+    <string name="glucose_unit">mg/dL</string>
+    <string name="status_normal">Normal</string>
+    <string name="status_high">High</string>
+    <string name="status_low">Low</string>
+    <string name="no_readings">No readings yet</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
